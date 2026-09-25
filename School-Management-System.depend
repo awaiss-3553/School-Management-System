@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790330803 source:c:\users\user\downloads\school-management-system\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
